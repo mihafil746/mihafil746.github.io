@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+.logo{width: 56px;
+height: 56px;
+left:100px;
+top:20px;
+}
+
+header{background: linear-gradient(45deg,#3d8fdc,#36bce2 );;
+    height: 700px; 
+}
+
+.lineyka{justify-content: space-between; 
+display:flex;
+width: 1000px;
+    align-items: center;
+align-content: center;
+    text-align: center;
+    
+    margin-top: 15px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.class{color:white;
+font-family: 'Ubuntu';}
+
+h1{font-family: 'Ubuntu';
+text-align: center;
+    margin{20px;}}
+
+.box{display: flex;
+margin: auto;
+width: 1226px;
+height: 580px;}
+
+.block1{margin:1px;
+width: 612px;
+height: 580px;
+margin: auto;
+transition-duration: 1s;}
+
+.block2{margin:1px;
+    display: block;
+width: 612px;
+height: 289px;
+margin: auto;
+transition-duration: 1s;}
+
+.block3{display: flex;
+margin:5px;
+width: 612px;
+height: 289px;
+    margin: auto;
+    margin:1px;
+}
+
+.block3_1{height: 289px;
+width: 305px;
+margin: auto;
+transition-duration: 1s;}
+
+.block3_2{height: 289px;
+width: 305px;
+margin: auto;
+transition-duration: 1s;}
+
+p{font-family: 'Ubuntu';}
+
+.start3{width: 305px;
+height: 289px;}
+
+.right{display: block;}
+
+
+footer{background-color: lightgray;
+height: 100px;}
+
+.video{margin: 20px;
+	margin-left: 200px;
+align-content: center;
+align-items: center;}
+
+.phone{width: 630px;
+height: 630px;
+
+align-content: center;
+align-items: center;
+margin: 20px;
+	margin-left: 400px;}
+
+.phone2{width: 1120px;
+height: 630px;
+
+align-content: center;
+align-items: center;
+margin: 20px;
+	margin-left: 200px;}
+.RedmiNote7:hover{transform: scale(1.1,1.1)}
+.PowerBank:hover{transform: scale(1.1,1.1)}
+.Redmi7:hover{transform: scale(1.1,1.1)}
+.MiBand3:hover{transform: scale(1.1,1.1)}
+
